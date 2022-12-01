@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>University of Padova</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>University of Padova</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
