@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a second-year Ph.D. student at the University of Padova, supervised by Prof. [Mauro Conti](https://www.math.unipd.it/~conti/) and [Stjepan Picek](https://www.ru.nl/en/people/picek-s). Currently, my research is related to Membership Inference Attack (MIA), a privacy leakage in machine learning models. Besides, I'm interested in Differential Privacy (DP), a common way of protecting privacy. Specifically, my considerations include a deeper understanding of MIA, finding possible MIAs, and thinking about general defenses.
 
-Before becoming a Ph.D. student, I obtained my Bachelor's (2019) and Master's (2021) degrees at the Harbin Institute of Technology at Weihai. During my Master's study, my projects are about primary resources, like IP, domain, and X.509 cerfitficates, in the Internet. And I'm supervised by Prof. [Zhaoxin Zhang](linkedin.com/in/兆心-张-967454aa/?originalSubdomain=cn) during this period. 
+Before becoming a Ph.D. student, I obtained my Bachelor's (2019) and Master's (2021) degrees at the Harbin Institute of Technology at Weihai. During my Master's study, my projects are about primary resources, like IP, domain, and X.509 certificates, in the Internet. And I'm supervised by Prof. [Zhaoxin Zhang](linkedin.com/in/兆心-张-967454aa/?originalSubdomain=cn) during this period. 
 
 
 <!-- I'm Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
