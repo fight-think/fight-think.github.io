@@ -1,12 +1,13 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - torvalds
+#   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - fight-think/Label-Only_MIA_for_GNNs
+  - fight-think/features-extraction
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
