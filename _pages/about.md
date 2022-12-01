@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 732</p>
-    <p>Via Trieste, 63, 35121 Padova PD</p>
+    <p>Via Trieste, 63, 35121</p>
     <p>Padova, Italy</p>
 
 news: false  # includes a list of news items
